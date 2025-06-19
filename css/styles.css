@@ -1,0 +1,21 @@
+:root {
+    --primario: #9C27B0;
+    --primarioObscuro: #89119D;
+    --secundario: #FFCE00;
+    --secundarioObscuro: rgb(233,287,2);
+    --blanco: #fff;
+    --negro: #000;
+
+    --fuentePrincipal: "Staatliches", sans-serif;
+}
+
+    html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/** Globales **/
